@@ -37,7 +37,7 @@ const About = () => {
               I'm a dedicated Software Engineer with over 4 years of experience,
               starting my journey as an Android Developer before transitioning
               into roles as a Flutter Developer, Frontend Developer, and
-              eventually Backend Developer.
+              eventually Backend Developer
             </p>
             <p className="text-gray-600 mb-4">
               My passion for technology has driven me to build a diverse skill
