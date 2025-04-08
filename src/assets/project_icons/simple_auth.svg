@@ -1,0 +1,26 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background shield -->
+  <path d="M100,10 L175,40 C175,40 180,120 100,190 C20,120 25,40 25,40 L100,10" fill="#f0f4f8" stroke="#2d3748" stroke-width="4"/>
+  
+  <!-- Lock Body -->
+  <rect x="65" y="90" width="70" height="60" rx="5" ry="5" fill="#4299e1" stroke="#2b6cb0" stroke-width="2"/>
+  
+  <!-- Lock Shackle -->
+  <path d="M75,90 L75,70 C75,55 125,55 125,70 L125,90" fill="none" stroke="#2b6cb0" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- React Logo (simplified) -->
+  <ellipse cx="100" cy="120" rx="8" ry="8" fill="#61dafb"/>
+  <ellipse cx="100" cy="120" rx="20" ry="7" fill="none" stroke="#61dafb" stroke-width="2" transform="rotate(60,100,120)"/>
+  <ellipse cx="100" cy="120" rx="20" ry="7" fill="none" stroke="#61dafb" stroke-width="2" transform="rotate(-60,100,120)"/>
+  <ellipse cx="100" cy="120" rx="20" ry="7" fill="none" stroke="#61dafb" stroke-width="2"/>
+  
+  <!-- Django/Python element -->
+  <path d="M75,60 C95,50 105,50 125,60" fill="none" stroke="#44a340" stroke-width="3"/>
+  
+  <!-- Google "G" letter hint -->
+  <path d="M135,45 C137,40 143,40 145,45 C147,50 142,55 138,52" fill="none" stroke="#ea4335" stroke-width="2"/>
+  
+  <!-- 2FA element - keyhole -->
+  <path d="M100,115 L100,125 M97,125 L103,125" stroke="#f7fafc" stroke-width="2"/>
+  <circle cx="100" cy="115" r="5" fill="#f7fafc"/>
+</svg>

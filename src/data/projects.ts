@@ -1,11 +1,12 @@
 import reactSvg from "@/assets/react.svg";
+import simpleAuth from "@/assets/project_icons/simple_auth.svg";
 
 export const projects = [
   {
     title: "Simple-Auth",
     description:
       "A full-stack authentication system built with React and Django, supporting JWT token-based login, Google OAuth, and Two-Factor Authentication (2FA). Designed for secure and modern user login workflows.",
-    image: reactSvg,
+    image: simpleAuth,
     tags: [
       "React",
       "Django",
